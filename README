@@ -1,4 +1,8 @@
+====================================================================================
+====================================================================================
 Step to create a git repo:
+====================================================================================
+====================================================================================
 
 1. cd dir_u_wanna_push_to_git/
 
@@ -38,6 +42,19 @@ Step to create a git repo:
 10. copy the following 2 commands from website:
     a) git remote add origin git@github.com:CeciliaWJH/hw4_git_practice.git
     b) git push -u origin master
+
+
+
+====================================================================================
+====================================================================================
+The repo has already existed on the website, how to push newly revise files?
+====================================================================================
+====================================================================================
+1. git add FILENAME
+
+2. git commit -m "Another modify"
+
+3. git push -u origin master
 
 
 RSA-key pw: the same as my personal email pw
